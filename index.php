@@ -3,7 +3,8 @@
 
     $name = "Shrikanta";
 
-    echo "Welcome ".$name;
+    echo "Welcome ".$name."<br>";
+    echo "Hello Brother";
 
 
 ?>
